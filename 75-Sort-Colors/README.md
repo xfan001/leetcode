@@ -1,0 +1,1 @@
+partition思想
