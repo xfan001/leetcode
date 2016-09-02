@@ -29,6 +29,12 @@ Could you come up with an one-pass algorithm using only constant space?
 
 <div>
 
+<div id="company_tags" class="btn btn-xs btn-warning">Show Company Tags</div>
+
+<span class="hidebutton">[Facebook](/company/facebook/) [Microsoft](/company/microsoft/) [Pocket Gems](/company/pocket-gems/)</span></div>
+
+<div>
+
 <div id="tags" class="btn btn-xs btn-warning">Show Tags</div>
 
 <span class="hidebutton">[Array](/tag/array/) [Two Pointers](/tag/two-pointers/) [Sort](/tag/sort/)</span></div>
